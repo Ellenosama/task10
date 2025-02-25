@@ -1,0 +1,40 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+  }
+.navbar{
+    background: #24353f;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    font-family: 'Titillium Web', sans-serif; 
+}
+h1{
+    color: #17a2b8;
+}
+
+.my-cont{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+a{
+    text-decoration: none;
+}
+
+.my-log{
+    color: white;
+}
+
+.my-new{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    margin: auto;
+    margin-top: 200px;
+    padding: 100px;
+    width: 700px;
+}
+h4{
+    color: #17a2b8;
+    font-size: 35px;
+}
+
+.my-btn{
+    margin-right: 70px;
+}
